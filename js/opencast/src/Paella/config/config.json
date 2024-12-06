@@ -12,7 +12,7 @@
   "defaultAudioStream": "presenter",
 
   "ui": {
-            "hideUITimer": 1000,
+    "hideUITimer": 1000,
             "hideOnMouseLeave": true
   },
 
