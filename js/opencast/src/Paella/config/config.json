@@ -13,7 +13,7 @@
 
   "ui": {
     "hideUITimer": 1000,
-            "hideOnMouseLeave": true
+    "hideOnMouseLeave": true
   },
 
   "progressIndicator": {
